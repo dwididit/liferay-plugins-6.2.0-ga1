@@ -1,0 +1,6 @@
+<Context>
+	<Loader
+		delegate="true"
+		loaderClass="com.liferay.support.tomcat.loader.PortalClassLoader"
+	/>
+</Context>

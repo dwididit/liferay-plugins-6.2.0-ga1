@@ -1,0 +1,20 @@
+.google-maps-portlet {
+	.address-field {
+		input {
+			width: 350px;
+		}
+
+		label {
+			min-width: 40px;
+		}
+	}
+
+	.get-directions {
+		margin-top: -12px;
+	}
+
+	.google-maps-link {
+		padding-top: 1em;
+		text-align: right;
+	}
+}
